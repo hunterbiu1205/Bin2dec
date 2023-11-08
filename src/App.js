@@ -24,7 +24,7 @@ export default function App() {
   return (
     <div className="App">
       <input type="text" value={inputValue} onChange={handleInputChange} />
-
+      <h1>test</h1>
       <button onClick={convertToDecimal}>Convert</button>
       {decimalValue !== null && <p>Decimal value: {decimalValue}</p>}
     </div>
