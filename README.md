@@ -1,10 +1,10 @@
 # Binary to Decimal Converter
 
-##**Demo:** [click here](https://4q5lqd-3000.csb.app/)
+**Demo:** [click here](https://4q5lqd-3000.csb.app/)
 
 **Idea from:** [click here](https://github.com/florinpop17/app-ideas)
 
-##**Tier: 1-Beginner**
+## **Tier: 1-Beginner**
 
 Binary is the number system all digital computers are based on. Therefore it's important for developers to understand binary, or base 2, mathematics. The purpose of Bin2Dec is to provide practice and understanding of how binary calculations.
 
@@ -15,7 +15,7 @@ This challenge requires that the developer implementing it follow these constrai
 Arrays may not be used to contain the binary digits entered by the user
 Determining the decimal equivalent of a particular binary digit in the sequence must be calculated using a single mathematical function, for example the natural logarithm. It's up to you to figure out which function to use.
 
-##**User Stories**
+## **User Stories**
 
 - [x] User can enter up to 20 binary digits in one input field
 - [x] User must be notified if anything other than a 0 or 1 was entered
